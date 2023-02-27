@@ -3,6 +3,6 @@
 </p>
 <h3 align="center">WPL</h3>
 <p align="center">
-WPL short for Web Pages Library, is a Library for people
-who want quick-access to Web Pages PLUGINS.
+WPL short for **Web Pages Library**, is a Library for people
+who want quick-access to Web Pages *PLUGINS*.
 </p>
