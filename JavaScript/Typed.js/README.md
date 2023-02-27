@@ -31,3 +31,5 @@ Now add some scripts:
 ```
 you can change the speed of text by editing the
 `typeSpeed` in the script above.
+# by who?
+[typed.js github page](https://github.com/mattboldt/typed.js/)
