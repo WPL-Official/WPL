@@ -37,5 +37,7 @@ you can change the speed of text by editing the
 ```html
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 ```
+*CDN is for typed.js not typed.min.js*
+
 # by who?
 [typed.js github page](https://github.com/mattboldt/typed.js/)
