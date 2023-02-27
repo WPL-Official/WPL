@@ -7,6 +7,7 @@ Then create a div with any class and:
 <span id="typed"></span>
 </div>
 ```
+``replace the dots with your phrases``
 put this to html.
 
 And create another div with... :
