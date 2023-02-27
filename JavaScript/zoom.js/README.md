@@ -16,5 +16,12 @@ you must add `data-action="zoom"` to your image like this:
 ```html
 <img src="..." data-action="zoom">
 ```
-# by who?
-By [@fat](https://github.com/fat)
+# CDN
+<p align="center">zoom.css</p>
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/drk-drg/WPL@main/JavaScript/zoom.js/zoom.css">
+```
+<p align="center">zoom.js</p>
+```html
+<script src="https://cdn.jsdelivr.net/gh/drk-drg/WPL@main/JavaScript/zoom.js/zoom.js"></script>
+```
