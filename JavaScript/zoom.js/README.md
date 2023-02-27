@@ -1,5 +1,5 @@
 # How
-You must add zoom.js and zomm.css to your html file like this:
+You must add zoom.js and zoom.css to your html file like this:
 ```html
 <!DOCTYPE html>
 <html>
