@@ -8,7 +8,7 @@ who want quick-access to Web Pages <em>PLUGINS</em>.
 
 <a href="">We missed a plugin?</a>
 .
-<a href=""> File doesn't exist? </a>
+<a href="https://github.com/drk-drg/WPL/issues/new"> File doesn't exist? </a>
 .
 <a href=""> Wanna contact with us? </a>
 </p>
