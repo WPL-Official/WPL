@@ -1,6 +1,6 @@
 # How
 You must add zoom.js and zomm.css to your html file like this:
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
