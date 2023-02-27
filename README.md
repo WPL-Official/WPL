@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27.picofile.com/file/8460441568/20230227_142524.png" alt="WPL Logo" width="100" height="100">
+  <img src="https://s27.picofile.com/file/8460441568/20230227_142524.png" alt="WPL Logo" width="200" height="165">
 </p>
 <h3 align="center">WPL</h3>
 <p align="center">
