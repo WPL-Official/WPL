@@ -10,5 +10,5 @@ who want quick-access to Web Pages <em>PLUGINS</em>.
 .
 <a href="https://github.com/drk-drg/WPL/issues/new"> File doesn't exist? </a>
 .
-<a href="https://github.com/drk-drg/WPL/blob/Contact/Contact.md"> Wanna contact with us? </a>
+<a href="https://github.com/drk-drg/WPL/blob/Contact/Contact.md"> Wanna contact us? </a>
 </p>
