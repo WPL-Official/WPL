@@ -7,6 +7,8 @@ Then create a div with any class and:
 <span id="typed"></span>
 </div>
 ```
+put this to html.
+
 And create another div with... :
 ```html
 <div id="typed-strings">
@@ -15,3 +17,17 @@ And create another div with... :
 ....
 </div>
 ```
+then put it in html.
+
+Now add some scripts:
+```html
+<script>
+    var typed = new Typed('#typed', {
+      stringsElement: '#typed-strings',
+      typeSpeed: 85,
+      loop: true,
+    });
+</script>
+```
+you can change the speed of text by editing the
+`typeSpeed` in the script above.
