@@ -40,4 +40,4 @@ you can change the speed of text by editing the
 *CDN is for typed.js not typed.min.js*
 
 # by who?
-[typed.js github page](https://github.com/mattboldt/typed.js/)
+<a href="https://github.com/mattboldt/typed.js/" target="_blank">typed.js github page</a>
