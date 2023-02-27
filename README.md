@@ -12,4 +12,4 @@ who want quick-access to Web Pages <em>PLUGINS</em>.
 .
 <a href="malito:skotadi.mw@gmail.com"> Wanna contact with us? </a>
 </p>
-<p><a href="malito:skotadi.mw@gmail.com">send and email</a></p>
+[Wanna contact us?](malito:skotadi.mw@gamil.com)
