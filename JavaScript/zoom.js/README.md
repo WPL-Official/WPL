@@ -14,5 +14,5 @@ You must add zoom.js and zomm.css to your html file like this:
 </body>
 </html>
 ```
-zoom.js i dependent on transition.js for adding this js to your html,
+zoom.js dependent on transition.js for adding this js to your html,
 you can use [bootstrap.js](https://github.com/drk-drg/Wlibrary/blob/main/Frameworks/BootStrap/js/bootstrap.js)
