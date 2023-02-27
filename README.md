@@ -7,8 +7,8 @@ WPL short for <strong>Web Pages Library</strong>, is a Library for people
 who want quick-access to Web Pages <em>PLUGINS</em>.
 
 <a href="">We missed a plugin?</a>
- -
+.
 <a href=""> File doesn't exist? </a>
- -
+.
 <a href=""> Wanna contact with us? </a>
 </p>
