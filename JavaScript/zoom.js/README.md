@@ -10,7 +10,7 @@ You must add zoom.js and zoom.css to your html file like this:
 </head>
 ```
 zoom.js dependent on transition.js. for adding this js to your html,
-you can use [bootstrap.js](https://github.com/drk-drg/Wlibrary/blob/main/Frameworks/BootStrap/js/bootstrap.js)
+you can use [bootstrap.js](https://github.com/drk-drg/WPL/blob/main/Frameworks/BootStrap/js/bootstrap.js)
 
 you must add `data-action="zoom"` to your image like this:
 ```html
