@@ -9,7 +9,7 @@ You must add zoom.js and zoom.css to your html file like this:
 <title> testing zoom.js </title>
 </head>
 ```
-zoom.js is based on transition.js. for adding this js to your html,
+zoom.js is based on bootstrap's transition.js. for adding this js to your html,
 you can use [bootstrap.js](https://github.com/drk-drg/WPL/blob/main/BootStrap/js/bootstrap.js)
 
 you must add `data-action="zoom"` to your image like this:
