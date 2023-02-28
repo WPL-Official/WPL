@@ -12,3 +12,14 @@ who want quick-access to Web Pages <em>PLUGINS</em>.
 .
 <a href="https://github.com/drk-drg/WPL/blob/Contact/Contact.md"> Wanna contact us? </a>
 </p>
+
+**bold**
+*italic*
+[link](https://github.com)
+simple text
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
