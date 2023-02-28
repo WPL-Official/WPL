@@ -14,7 +14,7 @@ And create another div with... :
 <div id="typed-strings">
 <p>...</p>
 <p>...</p>
-....
+<!--- you can add more paragraphs if you want --->
 </div>
 ```
 ``replace the dots with your phrases.``
