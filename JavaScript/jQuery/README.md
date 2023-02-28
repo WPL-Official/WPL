@@ -4,4 +4,4 @@
 ```
 # Created By
 
-<a href="https://github.com/jquery/jquery">jQuery Team</a>
+<p align="center"><a href="https://github.com/jquery/jquery">jQuery Team</a></p>
