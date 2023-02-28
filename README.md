@@ -14,9 +14,13 @@ who want quick-access to Web Pages <em>PLUGINS</em>.
 </p>
 
 **bold**
+
 *italic*
+
 [link](https://github.com)
+
 simple text
+
 # h1
 ## h2
 ### h3
