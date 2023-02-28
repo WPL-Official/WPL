@@ -2,7 +2,7 @@
   <img src="https://s27.picofile.com/file/8460441568/20230227_142524.png" alt="WPL Logo" width="200" height="199">
 </p>
 
-### WPL
+###center WPL
 
 <p align="center">
 WPL short for <strong>Web Pages Library</strong>, is a Library for people
